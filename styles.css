@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;400;500&display=swap');
+
+:root{
+    font-family: 'Barlow', sans-serif;
+}
+ 
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+.date{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    background-color: #D5CCC8;
+} 
+.nombre{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.edad{
+    font-size: 20px; 
+    text-align: center;  
+    font-weight: bolder; 
+} 
+.name{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+.contacto{
+    width: 100%;
+    height: 100px;
+    background-color: #D5CCC8;
+}
+.perfil{
+    width: 150%;
+    height: 150px;
+    background-color: #D5CCC8;
+}
+.formacion{
+    width: 350%;
+    height: 350px;
+    background-color: #D5CCC8;
+}
+.skills{
+    width: 150%;
+    height: 150px;
+    background-color: #D5CCC8;
+}
+
+
